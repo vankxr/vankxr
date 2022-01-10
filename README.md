@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning how to use big office printers and washing machines. These are some of the hardest machines to operate.
 - 📫 How to reach me: <jgc3silva@gmail.com>
 
-![vankxr's GitHub stats](https://github-readme-stats.vercel.app/api?username=vankxr&count_private=true&show_icons=true&theme=dark)
+![vankxr's GitHub stats](https://github-readme-stats.vercel.app/api?username=vankxr&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true&theme=github_dark)
+![vankxr's Top used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vankxr&layout=compact&langs_count=8&hide=VHDL,V,SystemVerilog&theme=github_dark&include_private=true&include_forks=true)
 
 ![ViewCount](https://views.whatilearened.today/views/github/vankxr/vankxr.svg?cache=remove)
