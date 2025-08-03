@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying for my Masters degree in Electrical Engineering
 - 📡 On my spare time I am mainly working on version 2 of the [icyradio](https://github.com/vankxr/icyradio) SDR and my [QO-100 Ground Station](https://github.com/vankxr/qo-100-tools)
 - 🌱 I’m currently learning how to use big office printers and washing machines. These are some of the hardest machines to operate.
 - 📫 How to reach me: <jgc3silva@gmail.com>
